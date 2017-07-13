@@ -1,5 +1,4 @@
 # libtoontown
-===========
 _libtoontown_ is a library made by Disney that handled Doodles, DNA, and probably more.
 
 ### Please Note ###
