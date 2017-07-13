@@ -1,0 +1,3 @@
+CPetBrain::CPetBrain(void)                                                                                                                                                                     .text 608D78B0 00000003 R . . . . . . 
+CPetBrain::is_attending_us(NodePath &,NodePath &)                                                                                                                                              .text 608D78C0 000001C7 R . . . . . . 
+CPetBrain::operator=(CPetBrain const &)      

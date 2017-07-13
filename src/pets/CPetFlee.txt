@@ -1,0 +1,10 @@
+CPetFlee::CPetFlee(CPetFlee const &)                                                                                                                                                           .text 608D7420 000000C2 R . . . . . . 
+CPetFlee::CPetFlee(NodePath *,float,float)                                                                                                                                                     .text 608D80A0 00000207 R . . . . . . 
+CPetFlee::`default constructor closure'(void)                                                                                                                                                  .text 608D75B0 0000001E R . . . . . . 
+CPetFlee::force_init_type(void)                                                                                                                                                                .text 608D7400 00000014 R . . . . . . 
+CPetFlee::get_class_type(void)                                                                                                                                                                 .text 608D7330 0000000D R . . . . . . 
+CPetFlee::get_type(void)                                                                                                                                                                       .text 608D73F0 0000000F R . . . . . . 
+CPetFlee::init_type(void)                                                                                                                                                                      .text 608D7340 000000A5 R . . . . . . 
+CPetFlee::process(float)                                                                                                                                                                       .text 608D8380 0000029D R . . . . . . 
+CPetFlee::set_chaser(NodePath &)                                                                                                                                                               .text 608D7630 00000049 R . . . . . . 
+CPetFlee::~CPetFlee(void)     
