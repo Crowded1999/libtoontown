@@ -5,7 +5,7 @@ _libtoontown_ is a library made by Disney that handled Doodles, DNA, and probabl
 We are not using any code from libpandadna, as it is very different from what Toontown used. We want to be as original as possibly possible.
 
 ### Contributing ###
-Any contributions are welcome.
+Any contributions are welcome. I am in the process of learning C++ so i just made the fake files.
 
 ### License ###
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
